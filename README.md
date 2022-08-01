@@ -7,7 +7,7 @@ This project as of now isn't responsive but it will be responsive in coming week
 
 ## Screenshot
 
-![Project 1 Screenshot](./Project%201.png)
+![Project 1 Screenshot](https://github.com/theyashyk09/HTML-CSS-Project-1/blob/main/Project%201.png)
 
 
 ## Deployed Link
